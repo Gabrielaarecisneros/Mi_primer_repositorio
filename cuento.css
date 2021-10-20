@@ -1,0 +1,91 @@
+body {
+    color: rgb(245, 240, 240);
+  }
+
+  body {
+    background-image: url('ar1 (1).jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    align-content: center ;
+  }
+
+  img{
+    display: block;
+    margin: auto;
+
+  }
+  h1 {
+    color: rgb(229, 219, 245);
+
+  }
+
+  h1 {
+    color: rgb(252, 240, 240);
+    text-shadow: 2px 2px 4px #272525;
+  }
+
+
+  /* unvisited link */
+a:link {
+    color: white;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(243, 23, 133);
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+
+  p{
+    letter-spacing: -1px;
+    color: black;
+ }
+ p {
+    line-height: 1.5em;
+    align-items: center ;
+  }
+
+  .parrafoCentrador{
+    
+    text-align:center;
+    border:1px;
+    padding:8px;}
+
+    .parrafoCentrador
+    {
+      background-color: #A0DAA9 ;
+    } 
+
+  div{
+
+    width:30%;
+    border:1px dotted #ffff;
+    padding:8px;
+    margin:auto;
+    background: transparent ;
+  }
+  center{
+    margin:16px 0;
+  }
+
+  .ImagenCentrada{
+
+    text-align: center;
+  }
+
+  .centradoDeParrafo {
+    text-align: center;
+    padding: 8px;
+  }
+
+    
